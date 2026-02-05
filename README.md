@@ -10,7 +10,7 @@
 
 ## 💖 About Me  
 
-🌷 Hi! I’m Ashna — someone who loves building **clean, user-friendly applications** using modern technologies.  
+🌷 Hi! I’m Ashna  someone who loves building **clean, user-friendly applications** using modern technologies.  
 I enjoy exploring **AI, web development, and data-driven systems**, and I’m always excited to learn something new.
 
 ✨ Things I enjoy:
