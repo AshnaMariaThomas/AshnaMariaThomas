@@ -36,14 +36,33 @@ I enjoy exploring **AI, web development, and data-driven systems**, and I’m al
 ## 💻 Tech Stack  
 
 <p align="left">
+
+<!-- Languages -->
 <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Django-ff69b4?style=for-the-badge&logo=django&logoColor=white"/>
+
+<br/>
+
+<!-- Web -->
+<img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-ff69b4?style=for-the-badge&logo=django&logoColor=white"/>
+
+<br/>
+
+<!-- AI / ML -->
+<img src="https://img.shields.io/badge/Machine%20Learning-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-ff69b4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Streamlit-ff69b4?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<br/>
+
+<!-- Databases -->
 <img src="https://img.shields.io/badge/MySQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-ff69b4?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 </p>
 
 ---
@@ -61,13 +80,13 @@ I enjoy exploring **AI, web development, and data-driven systems**, and I’m al
 <p><i>Intelligent Poster Content Extractor</i></p>
 
 <p>
-Poster Sense is an AI-powered system that automatically extracts structured event
-information such as event name, date, time, venue, and description from event posters.
+AI-powered system that extracts structured event details such as event name, date,
+time, venue, and description from posters using OCR and NLP.
 </p>
 
 <p>
-OCR is used to detect text from images, while NLP techniques clean, analyze, and organize
-the extracted data for user confirmation and publishing.
+The extracted data is cleaned, analyzed, and presented to users for confirmation
+before publishing.
 </p>
 
 <p><b>Tech Stack:</b><br>
@@ -79,16 +98,15 @@ Django · Next.js · Tailwind CSS · OCR · NLP
 <td width="50%" valign="top">
 
 <h3>📈 Stock Price Forecasting</h3>
-<p><i>Machine Learning & Deep Learning Project</i></p>
+<p><i>Machine Learning & Deep Learning</i></p>
 
 <p>
-This project focuses on predicting stock price trends using historical market data.
-Multiple machine learning and deep learning models were implemented and evaluated.
+Predicts stock price trends using historical market data by implementing and comparing
+multiple ML and DL models.
 </p>
 
 <p>
-The system learns temporal patterns in financial data and forecasts future prices
-using performance metrics to assess accuracy.
+Temporal patterns are learned using deep learning techniques to improve prediction accuracy.
 </p>
 
 <p><b>Tech Stack:</b><br>
@@ -107,17 +125,15 @@ Python · LSTM · Machine Learning · Pandas · NumPy
 <p><i>Deep Learning in Healthcare</i></p>
 
 <p>
-A deep learning-based medical imaging project designed to detect Alzheimer’s disease
-from brain MRI scans at an early stage.
+Detects Alzheimer’s disease from brain MRI scans using convolutional neural networks.
 </p>
 
 <p>
-Convolutional Neural Networks (CNNs) classify images into different disease stages,
-supporting early diagnosis and decision-making.
+The model classifies disease stages to support early diagnosis and clinical decision-making.
 </p>
 
 <p><b>Tech Stack:</b><br>
-Python · Deep Learning · CNN · TensorFlow / Keras · Medical Imaging
+Python · Deep Learning · CNN · TensorFlow / Keras
 </p>
 
 </td>
@@ -128,13 +144,11 @@ Python · Deep Learning · CNN · TensorFlow / Keras · Medical Imaging
 <p><i>Data-Driven Investment Strategy</i></p>
 
 <p>
-This project optimizes a stock portfolio by balancing risk and return using historical
-market data and mathematical optimization techniques.
+Optimizes stock portfolios by balancing expected returns and risk using historical data.
 </p>
 
 <p>
-The system helps determine optimal asset allocation based on expected returns,
-volatility, and the risk-free rate.
+Helps determine optimal asset allocation using mathematical optimization techniques.
 </p>
 
 <p><b>Tech Stack:</b><br>
