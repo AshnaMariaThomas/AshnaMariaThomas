@@ -10,7 +10,7 @@
 
 ## 💖 About Me  
 
-🌷 Hi! I’m Ashna  someone who loves building **clean, user-friendly applications** using modern technologies.  
+🌷 Hi! I’m Ashna — someone who loves building **clean, user-friendly applications** using modern technologies.  
 I enjoy exploring **AI, web development, and data-driven systems**, and I’m always excited to learn something new.
 
 ✨ Things I enjoy:
@@ -36,7 +36,6 @@ I enjoy exploring **AI, web development, and data-driven systems**, and I’m al
 ## 💻 Tech Stack  
 
 <p align="left">
-
 <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -45,28 +44,111 @@ I enjoy exploring **AI, web development, and data-driven systems**, and I’m al
 <img src="https://img.shields.io/badge/Streamlit-ff69b4?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-ff69b4?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
 </p>
 
 ---
+
+## 🌸 Featured Projects  
+
 <div align="center">
 
-<div style="border:1px solid #ffc0cb; border-radius:15px; padding:15px; margin:10px;">
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 <h3>🎟️ Poster Sense</h3>
 <p><i>Intelligent Poster Content Extractor</i></p>
-<p>AI-powered system that extracts event details from posters using OCR & NLP.</p>
-<p><b>Tech:</b> Django · Next.js · Tailwind · OCR · NLP</p>
-</div>
 
-<div style="border:1px solid #ffc0cb; border-radius:15px; padding:15px; margin:10px;">
+<p>
+Poster Sense is an AI-powered system that automatically extracts structured event
+information such as event name, date, time, venue, and description from event posters.
+</p>
+
+<p>
+OCR is used to detect text from images, while NLP techniques clean, analyze, and organize
+the extracted data for user confirmation and publishing.
+</p>
+
+<p><b>Tech Stack:</b><br>
+Django · Next.js · Tailwind CSS · OCR · NLP
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
 <h3>📈 Stock Price Forecasting</h3>
-<p><i>AI/ML Prediction System</i></p>
-<p>Implemented ML & DL models to predict stock market trends.</p>
-<p><b>Tech:</b> Python · LSTM · Pandas · NumPy</p>
-</div>
+<p><i>Machine Learning & Deep Learning Project</i></p>
+
+<p>
+This project focuses on predicting stock price trends using historical market data.
+Multiple machine learning and deep learning models were implemented and evaluated.
+</p>
+
+<p>
+The system learns temporal patterns in financial data and forecasts future prices
+using performance metrics to assess accuracy.
+</p>
+
+<p><b>Tech Stack:</b><br>
+Python · LSTM · Machine Learning · Pandas · NumPy
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🧠 Alzheimer’s Disease Detection</h3>
+<p><i>Deep Learning in Healthcare</i></p>
+
+<p>
+A deep learning-based medical imaging project designed to detect Alzheimer’s disease
+from brain MRI scans at an early stage.
+</p>
+
+<p>
+Convolutional Neural Networks (CNNs) classify images into different disease stages,
+supporting early diagnosis and decision-making.
+</p>
+
+<p><b>Tech Stack:</b><br>
+Python · Deep Learning · CNN · TensorFlow / Keras · Medical Imaging
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📊 Stock Market Portfolio Optimization</h3>
+<p><i>Data-Driven Investment Strategy</i></p>
+
+<p>
+This project optimizes a stock portfolio by balancing risk and return using historical
+market data and mathematical optimization techniques.
+</p>
+
+<p>
+The system helps determine optimal asset allocation based on expected returns,
+volatility, and the risk-free rate.
+</p>
+
+<p><b>Tech Stack:</b><br>
+Python · Portfolio Optimization · Pandas · NumPy · Streamlit
+</p>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
+---
 
 ## 🌸 GitHub Stats  
 
@@ -79,7 +161,7 @@ I enjoy exploring **AI, web development, and data-driven systems**, and I’m al
 
 <div align="center">
 
-✨ *Learning. Building. Growing.* ✨  
+✨ <i>Learning. Building. Growing.</i> ✨  
 🌷 Thanks for visiting my profile 🌷  
 
 </div>
