@@ -49,6 +49,24 @@ I enjoy exploring **AI, web development, and data-driven systems**, and I’m al
 </p>
 
 ---
+<div align="center">
+
+<div style="border:1px solid #ffc0cb; border-radius:15px; padding:15px; margin:10px;">
+<h3>🎟️ Poster Sense</h3>
+<p><i>Intelligent Poster Content Extractor</i></p>
+<p>AI-powered system that extracts event details from posters using OCR & NLP.</p>
+<p><b>Tech:</b> Django · Next.js · Tailwind · OCR · NLP</p>
+</div>
+
+<div style="border:1px solid #ffc0cb; border-radius:15px; padding:15px; margin:10px;">
+<h3>📈 Stock Price Forecasting</h3>
+<p><i>AI/ML Prediction System</i></p>
+<p>Implemented ML & DL models to predict stock market trends.</p>
+<p><b>Tech:</b> Python · LSTM · Pandas · NumPy</p>
+</div>
+
+</div>
+
 
 ## 🌸 GitHub Stats  
 
